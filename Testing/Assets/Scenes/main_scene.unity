@@ -3276,6 +3276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 2906322543175448844, guid: 26809e69dab9b214191f9ac5ae7aa079,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -3434,6 +3435,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0.2
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of dd34f9b... new animations
 =======
 >>>>>>> parent of dd34f9b... new animations
     m_RemovedComponents: []
@@ -11751,6 +11754,9 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of dd34f9b... new animations
 =======
 >>>>>>> parent of dd34f9b... new animations
 --- !u!1 &2035901707
@@ -11826,6 +11832,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2035901707}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: 0.6801705, w: 0.73305404}
   m_LocalPosition: {x: 2.87577, y: -8.7692995, z: 0}
   m_LocalScale: {x: 2.1566708, y: 2.5028093, z: 2.1959789}
@@ -11836,6 +11843,8 @@ Transform:
 =======
 >>>>>>> 5a59c5b73a3b2738231add9aadeadf4ab2efc846
 =======
+=======
+>>>>>>> parent of dd34f9b... new animations
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.68988097, y: -7.899, z: 0}
   m_LocalScale: {x: 2.1959789, y: 2.2783282, z: 2.1959789}
@@ -11843,6 +11852,9 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of dd34f9b... new animations
+=======
 >>>>>>> parent of dd34f9b... new animations
 --- !u!1 &2046666158
 GameObject:
